@@ -1,3 +1,4 @@
+# use your input function instead of these print statements, pls refactor and remove all this print statements
 print("List of menu functions")
 print("Press")
 print("1 -> Phone book")
