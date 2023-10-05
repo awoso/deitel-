@@ -1,3 +1,4 @@
+# why are you importing python array sir?
 from array import array
 
 
@@ -58,14 +59,14 @@ def my_total(my_array):
         total = total + my_array[i]
         collect_total = f"{total}"
         name += collect_total + " "
-
+# whats an empty string variable name doing here ?
 
 def sum_for_loop(my_array):
     sum_total = 0
     for i in range(0, len(my_array)):
         sum_total = sum_total + my_array[1]
     return sum_total
-
+# did u test this function ??
 
 def sum_while_loop(my_array):
     sum_total = 0
